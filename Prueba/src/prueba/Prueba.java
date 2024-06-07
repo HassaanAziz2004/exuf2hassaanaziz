@@ -24,6 +24,9 @@ public class Prueba {
         llista.add("Ous");
         llista.add("Formatge");
         llista.add("Tomàquets");
+        llista.add("Helado de vainilla");
+        llista.add("Helado de chocolate");
+        llista.add("Helado de Fresa");
 
         // Mostrar la llista de la compra
         System.out.println("Llista de la compra:");
