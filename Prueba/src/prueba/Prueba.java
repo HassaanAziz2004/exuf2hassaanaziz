@@ -24,7 +24,7 @@ public class Prueba {
         llista.add("Ous");
         llista.add("Formatge");
         llista.add("Tomàquets");
-        llista.add("DVD Batman")
+        llista.add("DVD Batman");
 
         // Mostrar la llista de la compra
         System.out.println("Llista de la compra:");
