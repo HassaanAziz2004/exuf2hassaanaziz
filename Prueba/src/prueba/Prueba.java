@@ -27,6 +27,9 @@ public class Prueba {
         llista.add("Helado de vainilla");
         llista.add("Helado de chocolate");
         llista.add("Helado de Fresa");
+        llista.add("samarretes frikis 1");
+        llista.add("samarretes frikis 2");
+        llista.add("samarretes frikis 3");
 
         // Mostrar la llista de la compra
         System.out.println("Llista de la compra:");
