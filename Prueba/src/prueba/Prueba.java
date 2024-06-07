@@ -25,7 +25,7 @@ public class Prueba {
         llista.add("Formatge");
         llista.add("Tomàquets");
         llista.add("DVD Batman");
-
+        llista.add("Carne de Cordero");
         // Mostrar la llista de la compra
         System.out.println("Llista de la compra:");
         for (String article : llista) {
